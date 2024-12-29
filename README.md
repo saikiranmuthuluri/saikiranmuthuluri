@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <span style="color: #00BFFF;">Muthuluri Saikiran</span></h1>
-<h3 align="center">🎓 Data Science Student | Aspiring Software Developer 🚀</h3>
+<h3 align="center">🎓 Data Science Graduate | Aspiring Software Developer 🚀</h3>
 
 ---
 
@@ -27,7 +27,11 @@
 <img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge&logo=ai&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=ml&logoColor=white" />
 <img src="https://img.shields.io/badge/Deep%20Learning-563D7C?style=for-the-badge&logo=dl&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF69B4?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-800080?style=for-the-badge&logo=llm&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-008080?style=for-the-badge&logo=prompt&logoColor=white" />
 </p>
+
 
 ---
 
