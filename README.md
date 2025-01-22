@@ -6,7 +6,9 @@
 
 <!-- About Me -->
 <p align="center">
-🌟 Passionate about solving problems with <strong>Data Science</strong> and building creative <strong>Web Applications</strong>.  
+🌟 Data science graduate seeking an entry-level role in Data Science, AI, Generative AI and 
+    Software Development to apply analytical skills and deliver impactful solutions.
+    Passionate about solving problems with <strong>Data Science</strong> and building creative <strong>Web Applications</strong>.  
 📚 Continuously learning and exploring technologies to become a versatile developer.  
 </p>
 
